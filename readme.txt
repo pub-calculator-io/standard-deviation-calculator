@@ -13,6 +13,8 @@ Given a discrete data set, the calculator calculates the mean, variance, and sta
 
 Given a discrete data set, the calculator calculates the mean, variance, and standard deviation of a sample or a population and shows all the intermediate steps of calculations.
 
+[Standard Deviation Calculator Homepage](https://www.calculator.io/standard-deviation-calculator/ "Standard Deviation Calculator Homepage")
+
 __Shortcode__
 
 Use the Standard Deviation Calculator shortcode:
