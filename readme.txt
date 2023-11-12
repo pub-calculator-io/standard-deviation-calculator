@@ -13,34 +13,35 @@ Given a discrete data set, the calculator calculates the mean, variance, and sta
 
 Given a discrete data set, the calculator calculates the mean, variance, and standard deviation of a sample or a population and shows all the intermediate steps of calculations.
 
-[Standard Deviation Calculator Homepage](https://www.calculator.io/standard-deviation-calculator/ "Standard Deviation Calculator Homepage")
+[https://www.calculator.io/standard-deviation-calculator/](https://www.calculator.io/standard-deviation-calculator/)
 
-__Shortcode__
-
-Use the Standard Deviation Calculator shortcode:
+__Standard Deviation Calculator Shortcode__
 
 `[ci_standard_deviation_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_standard_deviation_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Standard Deviation Calculator](https://www.calculator.io/standard-deviation-calculator/ "Standard Deviation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Standard Deviation Calculator Usage ==
+
 * Add the shortcode `[ci_standard_deviation_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_standard_deviation_calculator(); ?>` to your template where you would like the Standard Deviation Calculator to appear.
 
 == Screenshots ==
+
 1. The Standard Deviation Calculator Input Form.
 2. The Standard Deviation Calculator Calculation Results.
+
+== Libraries used in Standard Deviation Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
