@@ -1,6 +1,6 @@
 === Standard Deviation Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: standard deviation calculator, mean calculation, variance determination, population and sample analysis, data set variability measure, statistical spread calculation, confidence interval estimation, frequency distribution analysis, population standard deviation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
