@@ -1,4 +1,4 @@
-# Standard Deviation Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Standard Deviation Calculator Widget for WordPress
 
 Given a discrete data set, the calculator calculates the mean, variance, and standard deviation of a sample or a population and shows all the intermediate steps of calculations.
 
