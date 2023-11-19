@@ -7,7 +7,7 @@ Given a discrete data set, the calculator calculates the mean, variance, and sta
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/standard-deviation-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /standard-deviation-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Standard Deviation Calculator](https://www.calculator.io/standard-deviation-calculator/ "Standard Deviation Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
